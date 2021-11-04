@@ -1,10 +1,7 @@
 import hashlib
 import itertools
 
-with open('day-04.txt') as f:
-    input = f.readlines()
-
-input = input[0].strip()
+input = "bgvyzdsv"
 
 ### Part 1
 
